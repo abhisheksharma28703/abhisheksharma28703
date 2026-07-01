@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML,DL,pytorch,LLMs**
 
-- 💬 Ask me about **ML,SQL**
+- 💬 Ask me about **ML,DL,SQL**
 
 - 📫 How to reach me **abhisheksharma28703@gmail.com**
 
